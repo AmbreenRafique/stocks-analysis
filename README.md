@@ -1,7 +1,8 @@
 **# STOCK-ANALYSIS**
+
     ###Analyzing DQ
-    ###Analyzing the all stocks of 2018
-    ###Analyzig the all stocks of 2017
+    ###Analyzing the stocks of 2018
+    ###Analyzig the stocks of 2017
     ###Analyzing Tickers by their performance
     ###Conclusion
   
@@ -14,6 +15,7 @@
   
     2017 has been a good year for investers where DQ provided about 200% rate of return to their investors. 
     However, reduced daily volume indicates that this share is not widely traded and held closely by a few investors.
+    
   ![This is an image](https://github.com/AmbreenRafique/stocks-analysis/blob/main/2017%20Analysis.png)
   
   **##Analyzing the Stocks of 2018**
